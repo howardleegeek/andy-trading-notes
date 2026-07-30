@@ -1,7 +1,7 @@
 # Andy (@0xCPT_Capital) X 推文合并去重集
 
 > 由多窗口抓取文件合并、按 status id 去重。仅供个人学习。
-> 共 **241** 条唯一推文。
+> 共 **260** 条唯一推文。
 
 ---
 
@@ -576,7 +576,70 @@ lol 看看晚上老美给不给买单
 ### Dec 19, 2025 · /0xCPT_Capital/status/2001996544791482515
 我对现在行情的判断是，如果把现在的阶段放在22年，下跌也就完成了40%吧，还有空间继续跌，上半段的流畅下跌可能结束了，3000这里确实开始磨蹭了，要预防类似图中的22年4月情况发生，还是那句话，300...（原文过长被截断）
 [图片]
-[图片]
+
+### Dec 19, 2025 · /0xCPT_Capital/status/2001944039562887390
+[回复 @xiosng883677887] 能抗住这波熊的就行
+
+### Dec 19, 2025 · /0xCPT_Capital/status/2001943469267497153
+下一波牛市大家应该玩的就是主流+美股了，meme沦为跟nft一样的垃圾流动性标的，现在开始学习美股吧同志们
+
+### Dec 19, 2025 · /0xCPT_Capital/status/2001935043816821026
+[回复 @zhang_bj_] 👊😭
+
+### Dec 19, 2025 · /0xCPT_Capital/status/2001930093170745593
+[回复 @JobberTheGuru] 是这样的，卓越的农村一般在旱厕里放一两只猪，卓越的北方人都知道
+
+### Dec 18, 2025 · /0xCPT_Capital/status/2001743043448443330
+天天上一当，当当都一样
+[视频]
+
+### Dec 18, 2025 · /0xCPT_Capital/status/2001712290769572009
+[回复 @hazenlee] 我甚至已经开始喝凤梨汁了宝宝，到时候让你唱甜甜的东西
+
+### Dec 18, 2025 · /0xCPT_Capital/status/2001711943841980447
+[回复 @hazenlee] 早给我李哥安排好了，过两天见嘻嘻
+
+### Dec 18, 2025 · /0xCPT_Capital/status/2001710940648304767
+[回复 @EAWinvest] 哪怕是100块，爸妈也会很高兴的
+
+### Dec 18, 2025 · /0xCPT_Capital/status/2001710086193021181
+[回复 @hazenlee] 爸爸
+
+### Dec 18, 2025 · /0xCPT_Capital/status/2001709462869151933
+[回复 @btc_davie] 那还是别了
+
+### Dec 18, 2025 · /0xCPT_Capital/status/2001708980301910210
+[回复 @LucretianDelta] 四舍五入咱爸就算以小坊的爷爷了
+
+### Dec 18, 2025 · /0xCPT_Capital/status/2001706576479244305
+假装严厉不过是我的保护色，挣钱第一件事爱爸妈，thank you crypto
+[图x2]
+
+### Dec 18, 2025 · /0xCPT_Capital/status/2001701612331634892
+幽默，操你妈以太坊，另外别老问我逻辑逻辑，哪有空给你做科普，你去看车展还要问工程问题吗？三次打完了，多一次都是给他脸了，移动止盈
+[图]
+
+### Dec 18, 2025 · /0xCPT_Capital/status/2001654611384635849
+[回复 @BTCBruce1] 我从来不听语音的，都是转文字
+
+### Dec 18, 2025 · /0xCPT_Capital/status/2001653693226332269
+[回复 @0xCPT_Capital（自答）] 终于有人对金毛说这句话了
+
+### Dec 18, 2025 · /0xCPT_Capital/status/2001653528536977697
+fake news!
+[引用 @NickTimiraos Dec 18, 2025：From @fcastofthemonth "This is totally inexcusable. The BLS just assumed rent/OER were zero for October. I am sure they ha..."]
+
+### Dec 18, 2025 · /0xCPT_Capital/status/2001651406563057888
+[回复 @btc_davie] 那可太谢谢了
+
+### Dec 18, 2025 · /0xCPT_Capital/status/2001650195227156971
+第一发，最多三发干完
+[图]
+[引用 @0xCPT_Capital Dec 18, 2025：再给我涨一点！准备盖帽！（图）]
+
+### Dec 18, 2025 · /0xCPT_Capital/status/2001639799548186964
+再给我涨一点！准备盖帽！
+[图]
 
 ### 2025-07-02 · /0xCPT_Capital/status/1940279475109085406
 只有被套才能坚定持有hhh，李哥能不能安排一次真突破让我爽一下
