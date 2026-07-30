@@ -1,7 +1,7 @@
 # Andy (@0xCPT_Capital) X 推文合并去重集
 
 > 由多窗口抓取文件合并、按 status id 去重。仅供个人学习。
-> 共 **616** 条唯一推文。
+> 共 **670** 条唯一推文。
 
 ---
 
@@ -702,6 +702,47 @@ Replying to @tradermige
 ### Jun 22 · /0xCPT_Capital/status/2068987225245946135
 Replying to @0xCPT_Capital（自回复）
 60000 58000
+[图]
+
+### Jun 22 · /0xCPT_Capital/status/2068986985583456640
+又回到这里了，如果没有twap买入放量突破，这里拒绝概率依旧大
+[图]
+[引用 @0xCPT_Capital Jun 18（自回复）: "目前被拒绝"]
+
+### Jun 22 · /0xCPT_Capital/status/2068986539804332223
+这么厚的现货托，但并没看到twap现货买入推价格，等开盘吧，反正对于多头来说这里不能破
+[图]
+[引用 @0xCPT_Capital Jun 19（自回复）: "bid挺厚，买入挺多的，这里如果击穿那就彻底完犊子了"]
+
+### Jun 21 · /0xCPT_Capital/status/2068802746644672715
+真正的底部不是50000，是44000附近
+
+### Jun 19 · /0xCPT_Capital/status/2068068104362762494
+Replying to @0xCPT_Capital（自回复）
+而且最重要的，没有任何人有义务去少挣一分钱
+
+### Jun 19 · /0xCPT_Capital/status/2068067828918538356
+可以看到乌合之众的脑回路总是出奇的一致，为什么你赚到了还要直播，为什么你这么有钱了还要早起，为什么你都这么有权利了还要进步……（原文含更多内容，未完全展开）
+[引用 @sunyunran: "贾乃亮自曝无戏可拍所以带货，直言有人问说：'你都赚到了，怎么还不停直播？' 贾乃亮：现在这个行业行情不好，没那么好干，再加上找我的导演也变少了。后面新生代演员演技都特别好，我岁数也大了，往上演长辈演不了，往下演偶像又够不上，很尴尬。"（视频）]
+
+### Jun 19 · /0xCPT_Capital/status/2068060459169874221
+Replying to @Vatoshi
+所以交易是悟道的过程，是修行的过程，交易的关键在于悟，这是唯一的圣杯
+
+### Jun 19 · /0xCPT_Capital/status/2068057096009248892
+稳定了一辈子的人最后不甘平庸，下海创业的人每天渴求稳定，儿时的孩子希望长大，成年的人希望可以有人生再来一次的机会，交易也是如此，亏损时想的是早知如此何必当初，盈利时想的是当初再勇敢些是否可以获得更多。人总是在寻求自己现在获得的另一面，但失去时才明白早已拥有。放下我执，日拱一卒，无限进步，着眼当下就可以拥有幸福，其实你已经很棒了，每天获得的结果都是你平淡顺于心的赏赐。
+
+### Jun 19 · /0xCPT_Capital/status/2068008508671554014
+想起当年炒鞋的日子了，真是有经济上行时期的美，当初我也是个鞋贩子，炒了三年
+[图]
+
+### Jun 19 · /0xCPT_Capital/status/2067961378439319978
+Replying to @YSI_crypto and @Wangduanniao
+来找我带你吃，我这的特产
+
+### Jun 19 · /0xCPT_Capital/status/2067956331265572912
+Replying to @0xCPT_Capital（自回复）
+bid挺厚，买入挺多的，这里如果击穿那就彻底完犊子了
 [图]
 
 ### Jan 1, 2026 · /0xCPT_Capital/status/2006969338495119504
@@ -2053,6 +2094,173 @@ Replying to @0xCPT_Capital and @Guilin_Chen_
 
 ### Jun 10, 2025 · /0xCPT_Capital/status/1932688644596510778
 年初的时候有几位一两千粉丝想做kol的朋友私信过我如何当好kol，当时我回答的也含含糊糊，因为我也没把自己当kol，毕竟一分项目方或者广告费都没挣过（确实没人找咱，不是格局大），刚才翻了一下他们的评论...(截断，有Show more)
+
+### Jun 10, 2025 · /0xCPT_Capital/status/1932685536457863254
+Replying to @Hollywoodslices
+我说真的，我第一次看这个片的时候真的还是处男
+
+### Jun 10, 2025 · /0xCPT_Capital/status/1932486491319775391
+Replying to @Jason1oski
+都是通过痕迹来推测的，强市场状态下有迹可循，现在很复杂
+
+### Jun 10, 2025 · /0xCPT_Capital/status/1932478144503857252
+Replying to @0xCPT_Capital (self)
+单位rmb，不是u，如果是u我现在要下楼买包烟了
+
+### Jun 10, 2025 · /0xCPT_Capital/status/1932478034608861232
+。。。。。my loss rn。。。。。 我睡了
+[图][引用自己 "。。。pepe把我doge利润弄没了，尸体微痛，事到如今。。。"]
+
+### Jun 10, 2025 · /0xCPT_Capital/status/1932476863856992754
+andy聊fomo
+曾经的我fomo过3.9的op，1.9的arb，0.4的doge，4000的eth，3的wif，0.000000007的babydoge等等，现在回头来看情绪才是这个市场最可怕的陷阱，价格让我们贪婪，价格让我们膨胀，价格让我们对数字脱敏，最后被吃掉。
+
+### Jun 10, 2025 · /0xCPT_Capital/status/1932470433603080227
+Replying to @TingHu888
+删除已隐藏的相册，删除Google浏览记录
+
+### Jun 10, 2025 · /0xCPT_Capital/status/1932454839927337182
+。。。pepe把我doge利润弄没了，尸体微痛，事到如今。。。
+
+### Jun 10, 2025 · /0xCPT_Capital/status/1932413484295405931
+兄弟们，说实话，uni走强，eth走突破，像极了23年底
+
+### Jun 10, 2025 · /0xCPT_Capital/status/1932412663021379847
+Replying to @AmilimeK
+为什么主页推给了我
+
+### Jun 10, 2025 · /0xCPT_Capital/status/1932410076821868874
+Replying to @glen45539558
+是的 百万仓位
+
+### Jun 10, 2025 · /0xCPT_Capital/status/1932409930176462906
+刚买了pepe，eth这次感觉不一样，止损放的比较宽，下注了
+[图]
+
+### Jun 9, 2025 · /0xCPT_Capital/status/1932313312768966923
+Replying to @lanz07512262
+(内容未能确认，需复核)
+
+### Jun 9, 2025 · /0xCPT_Capital/status/1932271565657592082
+Replying to @Guilin_Chen_
+真的是这样，一个是活不错能日日干的少妇，另一个是活无敌强但是艾滋概率极大的咯咯哒
+
+### Jun 9, 2025 · /0xCPT_Capital/status/1932265920925471209
+Replying to @0xCPT_Capital (self)
+兄弟们 得先取悦自己啊
+
+### Jun 9, 2025 · /0xCPT_Capital/status/1932264440415821875
+我还没买完呢… 这就是我要的快乐～
+[图][引用自己(Jun 8, 2025)]
+
+### Jun 9, 2025 · /0xCPT_Capital/status/1932129833469051145
+选择doge不仅是因为体量够大相对安全，更重要的是我发现它从去年8.5触底后的上涨幅度远大于pepe，这一轮到目前为止全部都是老家伙们在刷新散户的三观，比如xrp。莫非这轮的资金都是老og时代的人在控...(截断，有Show more)
+
+### Jun 9, 2025 · /0xCPT_Capital/status/1932125845688377597
+等待doge ath的到来～除btc外唯一一个我敢放心睡的山寨，因为eth我几乎没有了，所以空出来了很大一笔资金，接下来的策略就是btc本位思考，现有的btc不再动了，其他的币都是为了挣更多的btc。
+
+### Jun 9, 2025 · /0xCPT_Capital/status/1932120696592949481
+Replying to @Shinlim522
+嗯嗯 她会玩 刚才也提了oppo替代的方案 她让我去客厅睡
+
+### Jun 9, 2025 · /0xCPT_Capital/status/1932118882200039669
+Replying to @Shinlim522
+真是人才
+
+### Jun 9, 2025 · /0xCPT_Capital/status/1932117454119137311
+Replying to @ztx99999
+去年十一月的我可以，现在的我比较困难
+
+### Jun 9, 2025 · /0xCPT_Capital/status/1932116424329441391
+哎咋整啊，我老婆要过生日了，最近她沉迷摄影，我本人五大三粗的不懂这些，脑子里只知道哈苏和富士这俩牌子貌似不错，但具体的区别我不知道，我就买了个我认为不错的相机，但我这两天一直给她说的是哈苏，我自己都搞...(截断，有Show more)
+[图]
+
+### Jun 9, 2025 · /0xCPT_Capital/status/1932109686112948442
+Replying to @XXAntiWar and @DekuKing1
+姐 别这样 本来要睡了 我小心眼 看别人挣钱难受 又睡不着了
+
+### Jun 9, 2025 · /0xCPT_Capital/status/1932108465394352496
+Replying to @HomieZhu and @hazenlee
+why，who are you？还要求上了
+
+### Jun 9, 2025 · /0xCPT_Capital/status/1932026187834077343
+Replying to @hazenlee
+21厘米，白虎，凉席快乐态
+
+### Jun 8, 2025 · /0xCPT_Capital/status/1931961768441761938
+Replying to @410ywiiiiii
+需要我替你报警吗？
+
+### Jun 8, 2025 · /0xCPT_Capital/status/1931928784141508798
+Replying to @BTCBruce1
+人生的容错率真的很高
+
+### Jun 8, 2025 · /0xCPT_Capital/status/1931928679602704385
+今天见了一个前vc国内头，不提名字。他跟我说泡泡玛特有自己的二级玩偶做市团队，就是他们自己公司培养的团队…. 你们觉得这是真的假的
+
+### Jun 8, 2025 · /0xCPT_Capital/status/1931770312917758071
+鼠鼠我啊，已经半退圈状态了，撕逼撕不起来，评论币也懒得整，见到以前骂我的和我骂的傻逼也没什么脾气了，流量不流量的也无所谓了，没啥变现的方式，既然不能变现每天受气也没意义，现在就是羡慕玩偶姐姐的稳定收入，我如果有个洞就好了
+
+### Jun 8, 2025 · /0xCPT_Capital/status/1931768026548035696
+一天没撸就成处男了？
+
+### Jun 8, 2025 · /0xCPT_Capital/status/1931760604911751595
+我觉得现在也没什么跟谁关联大不大的问题了，doge练好再去玩pepe，pepe有的时候比较烦人的，整体向下，它会向上骗炮一下，整体向上，它会启动的更慢一些，整体来说脾气不好或者功力不足的朋友会被搞心态...(截断，有Show more)
+[引用 @KevinLeeyt "pepe应该算除了doge之外比较稳的了吧，只是跟eth关联性较大。"]
+
+### Jun 8, 2025 · /0xCPT_Capital/status/1931759967645868147
+想玩合约，先从btc练起，btc都挣不到钱就别玩别的了。想玩meme先从doge练起，doge的波动跟随btc已经在meme里算是很小的了，如果doge盈利或者回撤都能让你膨胀和恐惧的话，其他meme...(截断)
+
+### Jun 8, 2025 · /0xCPT_Capital/status/1931758908743524678
+(无文字)
+[图]
+
+### Jun 7, 2025 · /0xCPT_Capital/status/1931576230152958172
+Replying to @CryptoApprenti1
+骗子喜欢讲"布局web3，投资ai，cofounder"
+
+### Jun 7, 2025 · /0xCPT_Capital/status/1931343592242717018
+Replying to @mubeitech
+这个逼主持人一直插个几把嘴啊，听的真几把累，万斯两边都不得罪
+
+### Jun 6, 2025 · /0xCPT_Capital/status/1931019141940687325
+Replying to @OwenJin12
+是懂生活的
+
+### Jun 6, 2025 · /0xCPT_Capital/status/1930955276540362861
+thank you crypto
+[图][引用 @0xSunNFT "Thank you crypto!"]
+
+### Jun 5, 2025 · /0xCPT_Capital/status/1930565405661401304
+Replying to @diamondhandjs
+同意
+
+### Jun 5, 2025 · /0xCPT_Capital/status/1930528142952898737
+Replying to @Cato_KT
+八月来云南吧猫叔，chill一下，到时候要开业了
+
+### Jun 4, 2025 · /0xCPT_Capital/status/1930512518222623016
+做交易时间长了就会发现，在做的时候感觉现在就是最难的市场，但过去后回头看这一段时间，依旧是充满了机会。去年的时候感觉太难了，但依旧给了至少两段特别大的趋势行情，今年又觉得特别难，但明年回头看是否还会有相同的感觉呢？所以真的不要太为未来担心，也不要去做太过于长远的计划。活下去比任何...(截断，有Show more)
+[视频]
+
+### Jun 3, 2025 · /0xCPT_Capital/status/1930132689644073195
+Replying to @chairbtc
+说的全是废话
+
+### Jun 3, 2025 · /0xCPT_Capital/status/1930132111689953463
+Replying to @Trader_S18 and @renfanzi
+帮Steven订一个北京旅游团
+
+### Jun 3, 2025 · /0xCPT_Capital/status/1930119485849252227
+我觉得目前市场如果想"快速"改善当前的状态需要三点 1. Trump家族用实际行动改善加密市场对他们的信任，而不是从最开始的支持变成现在这种他们的每个动作都让市场怀疑是真的假的，是否是内幕，是否会朝...(截断)
+
+### Jun 3, 2025 · /0xCPT_Capital/status/1930118159564190012
+eth的话我没什么想说的，自从1800附近进仓了一半多之后就不看了。。。目前都是正常的价格反应，我还是维持一如既往地观点，没有实际落地的宽松和刀乐释放，我不对除btc之外的普涨抱有太大的希望
+[图][引用自己(May 9, 2025) "我在等这两个机会把我剩下的资金打出去"]
+
+### Jun 3, 2025 · /0xCPT_Capital/status/1930117077576376394
+BTC周级别顶背离...(截断，有Show more)
+[图]
 
 ### Jul 1, 2024 · /0xCPT_Capital/status/1808006652064624732
 谢谢floki提供了今晚的茅台
